@@ -21,7 +21,7 @@
 I'm a Computing Science student at SFU with a strong focus on systems programming in C++, algorithm design, and AI-driven applications. I enjoy building performance-oriented systems and intelligent models that solve real-world problems.
 
 - 🔭 Currently working on: **Table Tennis Winner Prediction (ML Classification Model)**
-- 🌱 Learning: Advanced machine learning techniques and performance optimization in C++
+- 🌱 Learning: Advanced machine learning techniques and performance optimization
 - 🤝 Interested in: AI systems, simulation engines, and game development logic
 - 🎯 2026 Goals: Secure a Software/AI co-op, contribute to open-source, and build high-performance applications
 - ⚡ Fun fact: I naturally think in terms of time complexity.
