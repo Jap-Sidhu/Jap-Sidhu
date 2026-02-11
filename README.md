@@ -10,7 +10,7 @@
   [![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/japdeep-sidhu-07708023a/)
   [![Email](https://img.shields.io/badge/Email-jss77@sfu.ca-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:jss77@sfu.ca)
   
-  **Computing Science Student @ Simon Fraser University | Full-Stack Developer | AI Enthusiast**
+  **Computing Science Student @ Simon Fraser University | C++ Systems Engineer | AI & Machine Learning | Seeking Co-op**
   
 </div>
 
@@ -18,13 +18,14 @@
 
 ## 🚀 About Me
 
-I'm a passionate developer who loves turning complex problems into elegant solutions. Currently pursuing my BSc in Computing Science at SFU, I specialize in building intelligent systems that make a real-world impact—from Vancouver Crime Dashboard to Disaster Alert platforms.
+I'm a Computing Science student at SFU with a strong focus on systems programming in C++, algorithm design, and AI-driven applications. I enjoy building performance-oriented systems and intelligent models that solve real-world problems.
 
-- 🔭 Currently working on: **Vancouver Crime Dashboard**
-- 🌱 Learning: Advanced AI/ML algorithms and computer vision techniques
-- 🤝 Looking to collaborate on: **ML trading bot leveraging trend analysis and sentiment-based news classification**
-- 🎯 2026 Goals: Contribute to open-source projects, expand my portfolio, and get a co-op
-- ⚡ Fun fact: I can optimize your code faster than I can optimize my sleep schedule
+- 🔭 Currently working on: **Table Tennis Winner Prediction (ML Classification Model)**
+- 🌱 Learning: Advanced machine learning techniques and performance optimization in C++
+- 🤝 Interested in: AI systems, simulation engines, and game development logic
+- 🎯 2026 Goals: Secure a Software/AI co-op, contribute to open-source, and build high-performance applications
+- ⚡ Fun fact: I naturally think in terms of time complexity.
+
 
 ---
 
@@ -33,12 +34,13 @@ I'm a passionate developer who loves turning complex problems into elegant solut
 <div align="center">
 
 ### Languages
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 ![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white)
 ![C](https://img.shields.io/badge/C-A8B9CC?style=for-the-badge&logo=c&logoColor=white)
-![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
 ![SQL](https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=postgresql&logoColor=white)
+![HTML](https://img.shields.io/badge/HTML-E34F26?style=for-the-badge&logo=html5&logoColor=white)
+
 
 ### Frameworks & Libraries
 ![Flask](https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white)
@@ -52,7 +54,7 @@ I'm a passionate developer who loves turning complex problems into elegant solut
 ![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
 ![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white)
 ![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-2088FF?style=for-the-badge&logo=githubactions&logoColor=white)
-![Arduino](https://img.shields.io/badge/Arduino-00979D?style=for-the-badge&logo=arduino&logoColor=white)
+![Vim](https://img.shields.io/badge/Vim-019733?style=for-the-badge&logo=vim&logoColor=white)
 
 </div>
 
@@ -71,7 +73,7 @@ I'm always open to discussing innovative projects, collaboration opportunities, 
   [![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/japdeep-sidhu-07708023a/)
   [![Email](https://img.shields.io/badge/Email-jss77@sfu.ca-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:jss77@sfu.ca)
   
-**💡 Interested in:** AI/ML Research • Algorithm Optimization • Computational Theory • Open Source Collaboration
+**💡 Interested in:** AI/ML • Game Developmment • Algorithm Optimization • Computational Theory • Open Source Collaboration
 
 
   
