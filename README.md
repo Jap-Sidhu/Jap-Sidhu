@@ -10,7 +10,7 @@
   [![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/japdeep-sidhu-07708023a/)
   [![Email](https://img.shields.io/badge/Email-jss77@sfu.ca-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:jss77@sfu.ca)
   
-  **Computing Science Student @ Simon Fraser University | C++ Systems Engineer | AI & Machine Learning | Seeking Co-op**
+  **CS Student @ Simon Fraser University | C++ Systems Engineer | AI & Machine Learning | Seeking Co-op**
   
 </div>
 
